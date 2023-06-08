@@ -9,3 +9,12 @@
         -파이썬으로 작성된 오픈소스 신경망 라이브러리
         -신경망을 구성하기 쉬움
         -딥 신경망과의 빠른 실험을 가능케 하도록 설계
+
+2. 인공지능 데이터셋 
+    1) https://archive.ics.uci.edu/
+        -머신러닝 알고리즘의 연구 개발을 위해 공개
+    2) https://scikit-learn.org/stable/
+        -파이썬 패키지에 내장된 데이터셋
+    3) https://aihub.or.kr/
+    4) https://www.data.go.kr/
+    5) https://data.seoul.go.kr/
